@@ -2,7 +2,7 @@
   "name": "berkin-personal",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://berkintosun.github.io",
+  "homepage": "http://berkintosun.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
