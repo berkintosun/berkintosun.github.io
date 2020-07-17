@@ -32,13 +32,13 @@ function Hero() {
           <div>
             
           </div>
-          <div className='d-flex flex-column justify-content-center'>
+          <div className='d-flex flex-column justify-content-center heroArea'>
             <Typist className="typer" avgTypingDelay={100} startDelay={2000} onTypingDone={() => setStart(1)}>
               <span>I'm</span>
               <br/>
             </Typist>
             {loop && start ? (
-              <Typist className="typer" avgTypingDelay={50} onTypingDone={() => setLoop(0)}>
+              <Typist className="typer" id="titleText" avgTypingDelay={50} onTypingDone={() => setLoop(0)}>
                 {commandments.map(word => ([
                 <span>{word}</span>,
                 <Typist.Backspace count={word.length} delay={1000} />,

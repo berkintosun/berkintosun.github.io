@@ -266,6 +266,7 @@ blockquote {
   .typer{
     min-width: 100%;
     max-width: 100%;
+    font-size: 40px;
   }
   .title::before{
     min-width: 20px;
@@ -299,5 +300,17 @@ blockquote h3:after{
 .treasureImg{
   margin-bottom: 5vh;
 }
-  
+
+#titleText{
+  height: 100%;
+}
+
+.heroArea{
+  height: 40vh;
+}
+
+.timelineContainer{
+  padding-left: 20px;
+  padding-right: 20px;
+}
 }
