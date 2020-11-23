@@ -16,9 +16,9 @@ function Footer() {
             <p>If you prefer e-mail, then feel free to use hello@berkintosun.com</p>
           </div>
           <div className='d-flex flex-row justify-content-around'>
-            <div><a href="https://www.linkedin.com/in/berkintosun/" target="_blank"><img className='socialImg' src={linkedin}/></a></div>
-            <div><a href="https://www.instagram.com/berkin.tosun/" target="_blank"><img className='socialImg' src={instagram}/></a></div>
-            <div><a href="https://www.twitch.tv/kankubt" target="_blank"><img className='socialImg' src={twitch}/></a></div>
+            <div><a href="https://www.linkedin.com/in/berkintosun/" target="_blank" rel="noreferrer"><img className='socialImg' src={linkedin}/></a></div>
+            <div><a href="https://www.instagram.com/berkin.tosun/" target="_blank" rel="noreferrer"><img className='socialImg' src={instagram}/></a></div>
+            <div><a href="https://www.twitch.tv/ShadowSync" target="_blank" rel="noreferrer"><img className='socialImg' src={twitch}/></a></div>
           </div>
         </div>
       </div>
