@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>beginning on Simplify the Tech with Berkin</title>
+    <link>/tags/beginning/</link>
+    <description>Recent content in beginning on Simplify the Tech with Berkin</description>
+    <image>
+      <title>Simplify the Tech with Berkin</title>
+      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 14 Feb 2024 11:30:00 +0000</lastBuildDate>
+    <atom:link href="/tags/beginning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beginning of the Adventure</title>
+      <link>/posts/beginning/</link>
+      <pubDate>Wed, 14 Feb 2024 11:30:00 +0000</pubDate>
+      <guid>/posts/beginning/</guid>
+      <description>I have been reading content shared by other professionals for years and I have observed the different strategies they use to create their content. I like to take personal notes as it helps me to nourish my knowledge and I simplify most of the parts by removing fancy words. I consider fancy words as those that bring confusion rather than value to the reader. I have been thinking of sharing my point of view with the online community, but I always postponed it.</description>
+    </item>
+  </channel>
+</rss>
