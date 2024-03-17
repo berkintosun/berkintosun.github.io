@@ -1,0 +1,15 @@
+.post-content img[src*="#left"] {
+    margin-right: auto;
+}
+
+.post-content img[src*="#right"] {
+    margin-left: auto;
+}
+
+picture:has(img[src*="#right"]) + figcaption {
+    text-align: end;
+ }
+
+ picture:has(img[src*="#left"]) + figcaption {
+    text-align: left;
+ }
