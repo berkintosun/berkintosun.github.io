@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Simplify the Tech with Berkin</title>
-    <link>/</link>
-    <description>Recent content on Simplify the Tech with Berkin</description>
+    <title>fundamentals on Simplify the Tech with Berkin</title>
+    <link>/tags/fundamentals/</link>
+    <description>Recent content in fundamentals on Simplify the Tech with Berkin</description>
     <image>
       <title>Simplify the Tech with Berkin</title>
       <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,20 +12,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 28 Feb 2024 15:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/fundamentals/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Compilers and Interpreters Simplified</title>
       <link>/posts/compilers-and-interpreters-explained/</link>
       <pubDate>Wed, 28 Feb 2024 15:00:00 +0000</pubDate>
       <guid>/posts/compilers-and-interpreters-explained/</guid>
       <description>Introduction Ever wondered how the computer understands the code you write? 🤔 I had juniors and students who were struggling to understand this process. Terms such as compilers and interpreters can be scary for people who do not have theoretical background in Computer Science and this can make us procrastinate the learning attempts. You might think that it is okay to not understand as long as you can provide executable code but remember, your goal should not be just delivering a code, it should be delivering the best product.</description>
-    </item>
-    <item>
-      <title>Beginning of the Adventure</title>
-      <link>/posts/beginning/</link>
-      <pubDate>Wed, 14 Feb 2024 11:30:00 +0000</pubDate>
-      <guid>/posts/beginning/</guid>
-      <description>I have been reading content shared by other professionals for years and I have observed the different strategies they use to create their content. I like to take personal notes as it helps me to nourish my knowledge and I simplify most of the parts by removing fancy words. I consider fancy words as those that bring confusion rather than value to the reader. I have been thinking of sharing my point of view with the online community, but I always postponed it.</description>
     </item>
   </channel>
 </rss>
